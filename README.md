@@ -63,8 +63,8 @@ The Node.js server is deployed on **Railway**.
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/Kanha-13/StudentsDashboard_nodeapp.git
+   cd StudentsDashboard_nodeapp
    ```
 
 2. **Install Dependencies**:
