@@ -90,7 +90,7 @@ The Node.js server is deployed on **Railway**.
    ```
 
 6. **Test the APIs**:
-   - Use tools like Postman or cURL to test endpoints (e.g., `/students`, `/login`).
+   - Use tools like Postman or cURL to test endpoints (e.g., `/students`).
 
 ## **7. Additional Notes**
 
